@@ -64,7 +64,7 @@ class Roleplay(BaseCog):
                 "https://cdn.weeb.sh/images/rko9O_mwW.gif",
                 "https://cdn.weeb.sh/images/rkx1dJ25z.gif",
                 "https://media.giphy.com/media/KMQoRt68bFei4/giphy.gif",
-                "https://cdn.weeb.sh/images/BkZngAYtb.gif",
+                "https://cdn.weeb.sh/images/BkZngAYtb.gif"
             ],
             "cuddle": [
                 "https://cdn.weeb.sh/images/BkTe8U7v-.gif",
@@ -90,7 +90,7 @@ class Roleplay(BaseCog):
                 "https://cdn.weeb.sh/images/BJwpw_XLM.gif",
                 "https://cdn.weeb.sh/images/r1VzDkmjW.gif",
                 "https://cdn.weeb.sh/images/HkzArUmvZ.gif",
-                "https://cdn.weeb.sh/images/r1A77CZbz.gif",
+                "https://cdn.weeb.sh/images/r1A77CZbz.gif"
             ],
             "kiss": [
                 "https://i.imgur.com/WYkVxW2.gif",
@@ -107,7 +107,7 @@ class Roleplay(BaseCog):
                 "https://cdn.weeb.sh/images/Hy-oQl91z.gif",
                 "https://cdn.weeb.sh/images/rJ6PWohA-.gif",
                 "https://cdn.weeb.sh/images/rJrCj6_w-.gif",
-                "https://78.media.tumblr.com/7255f36b2c31fac77542e8fe6837b408/tumblr_mokq94dAXR1s05qslo1_500.gif",
+                "https://78.media.tumblr.com/7255f36b2c31fac77542e8fe6837b408/tumblr_mokq94dAXR1s05qslo1_500.gif"
             ],
             "slap": [
                 "https://cdn.weeb.sh/images/H16aQJFvb.gif",
@@ -152,7 +152,7 @@ class Roleplay(BaseCog):
                 "https://cdn.weeb.sh/images/rJgTQ1tvb.gif",
                 "https://cdn.weeb.sh/images/rkaqm1twZ.gif",
                 "https://cdn.weeb.sh/images/ryn_Zg5JG.gif",
-                "https://cdn.weeb.sh/images/SJ-CQytvW.gif",
+                "https://cdn.weeb.sh/images/SJ-CQytvW.gif"
             ],
             "pat": [
                 "https://cdn.weeb.sh/images/r180y1Yvb.gif",
@@ -161,8 +161,7 @@ class Roleplay(BaseCog):
                 "http://i.imgur.com/0gTbTNR.gif",
                 "http://i.imgur.com/hlLCiAt.gif",
                 "http://i.imgur.com/sAANBDj.gif",
-                "https://i.imgur.com/10VrpFZ.gif",
-                "https://i.imgur.com/x0u35IU.gif",
+                "https://i.imgur.com/10VrpFZ.gifhttps://i.imgur.com/x0u35IU.gif",
                 "https://i.imgur.com/sAANBDj.gif",
                 "https://i.imgur.com/wtxwpm1.gif",
                 "https://i.imgur.com/3eR7weH.gif",
@@ -191,7 +190,7 @@ class Roleplay(BaseCog):
                 "https://cdn.weeb.sh/images/rkTC896_f.gif",
                 "https://cdn.weeb.sh/images/SJudB96_f.gif",
                 "https://cdn.weeb.sh/images/SJudB96_f.gif",
-                "https://cdn.weeb.sh/images/r1lVQgcyG.gif",
+                "https://cdn.weeb.sh/images/r1lVQgcyG.gif"
             ],
             "lick": [
                 "https://media1.tenor.com/images/c4f68fbbec3c96193386e5fcc5429b89/tenor.gif?itemid=13451325",
@@ -204,7 +203,7 @@ class Roleplay(BaseCog):
                 "https://media1.tenor.com/images/d702fa41028207c6523b831ec2db9467/tenor.gif?itemid=5990650",
                 "https://media1.tenor.com/images/81769ee6622b5396d1489fb4667fd20a/tenor.gif?itemid=14376074",
                 "https://media1.tenor.com/images/feeef4685f9307b76c78a22ba0a69f48/tenor.gif?itemid=8413059",
-                "https://media1.tenor.com/images/efd46743771a78e493e66b5d26cd2af1/tenor.gif?itemid=14002773",
+                "https://media1.tenor.com/images/efd46743771a78e493e66b5d26cd2af1/tenor.gif?itemid=14002773"
             ],
             "highfive": [
                 "https://media1.tenor.com/images/0ae4995e4eb27e427454526c05b2e3dd/tenor.gif?itemid=12376992",
@@ -218,7 +217,7 @@ class Roleplay(BaseCog):
                 "https://media1.tenor.com/images/e2f299d05a7b1832314ec7a331440d4e/tenor.gif?itemid=5374033",
                 "https://media1.tenor.com/images/16267f3a34efb42598bd822effaccd11/tenor.gif?itemid=14137081",
                 "https://media1.tenor.com/images/9730876547cb3939388cf79b8a641da9/tenor.gif?itemid=8073516",
-                "https://media1.tenor.com/images/ce85a2843f52309b85515f56a0a49d06/tenor.gif?itemid=14137077",
+                "https://media1.tenor.com/images/ce85a2843f52309b85515f56a0a49d06/tenor.gif?itemid=14137077"
             ],
             "feed": [
                 "https://media1.tenor.com/images/93c4833dbcfd5be9401afbda220066ee/tenor.gif?itemid=11223742",
@@ -231,12 +230,12 @@ class Roleplay(BaseCog):
                 "https://media1.tenor.com/images/571da4da1ad526afe744423f7581a452/tenor.gif?itemid=11658244",
                 "https://media1.tenor.com/images/6bde17caa5743a22686e5f7b6e3e23b4/tenor.gif?itemid=13726430",
                 "https://media1.tenor.com/images/fd3616d34ade61e1ac5cd0975c25a917/tenor.gif?itemid=13653906",
-                "https://imgur.com/v7jsPrv",
+                "https://imgur.com/v7jsPrv"
             ],
             "tickle": [
                 "https://media1.tenor.com/images/02f62186ccb7fa8a2667f3216cfd7e13/tenor.gif?itemid=13269751",
                 "https://media1.tenor.com/images/d38554c6e23b86c81f8d4a3764b38912/tenor.gif?itemid=11379131",
-                "https://media1.tenor.com/images/05a64a05e5501be2b1a5a734998ad2b2/tenor.gif?itemid=11379130",
+                "https://media1.tenor.com/images/05a64a05e5501be2b1a5a734998ad2b2/tenor.gif?itemid=11379130"
             ],
             "poke": [
                 "https://media1.tenor.com/images/3b2bfd09965bd77f2a8cb9ba59cedbe4/tenor.gif?itemid=5607667",
@@ -246,7 +245,7 @@ class Roleplay(BaseCog):
                 "https://media1.tenor.com/images/90f68d48795c51222c60afc7239c930c/tenor.gif?itemid=8701034",
                 "https://media1.tenor.com/images/01b264dc057eff2d0ee6869e9ed514c1/tenor.gif?itemid=14346763",
                 "https://media1.tenor.com/images/f8a48a25f47d5d12342705c7c87368bb/tenor.gif?itemid=14134415",
-                "https://media.tenor.com/images/6b5c1554a6ee9d48ab0392603bab8a8e/tenor.gif",
+                "https://media.tenor.com/images/6b5c1554a6ee9d48ab0392603bab8a8e/tenor.gif"
             ],
             "smug": [
                 "https://cdn.nekos.life/v3/sfw/gif/smug/smug_027.gif",
@@ -254,8 +253,8 @@ class Roleplay(BaseCog):
                 "https://i.kym-cdn.com/photos/images/original/001/087/562/93c.gif",
                 "https://i.kym-cdn.com/photos/images/newsfeed/001/161/167/eda.gif",
                 "https://media1.tenor.com/images/d9b3127da3f9419cbb28f9f7c00860d8/tenor.gif?itemid=9588226",
-                "https://media1.tenor.com/images/0097fa7f957477f9edc5ff147bb9a5ad/tenor.gif?itemid=12390496",
-            ],
+                "https://media1.tenor.com/images/0097fa7f957477f9edc5ff147bb9a5ad/tenor.gif?itemid=12390496"
+            ]
         }
         self.config.register_global(**default_global)
 
@@ -489,8 +488,7 @@ class Roleplay(BaseCog):
                 try:
                     content = await resp.json(content_type=None)
                 except (ValueError, aiohttp.ContentTypeError) as ex:
-                    log.debug("Pruned by exception, error below:")
-                    log.debug(ex)
+                    log.error(f"Pruned by exception, error below:\n{ex}")
                     return []
 
         if content["data"]["status"]["code"] == 200:
